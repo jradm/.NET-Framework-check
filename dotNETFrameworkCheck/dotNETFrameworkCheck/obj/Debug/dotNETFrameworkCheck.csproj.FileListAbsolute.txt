@@ -1,0 +1,6 @@
+E:\DEV\Workspace\.NET-Framework-check\dotNETFrameworkCheck\dotNETFrameworkCheck\bin\Debug\dotNETFrameworkCheck.exe.config
+E:\DEV\Workspace\.NET-Framework-check\dotNETFrameworkCheck\dotNETFrameworkCheck\bin\Debug\dotNETFrameworkCheck.exe
+E:\DEV\Workspace\.NET-Framework-check\dotNETFrameworkCheck\dotNETFrameworkCheck\bin\Debug\dotNETFrameworkCheck.pdb
+E:\DEV\Workspace\.NET-Framework-check\dotNETFrameworkCheck\dotNETFrameworkCheck\obj\Debug\dotNETFrameworkCheck.csprojResolveAssemblyReference.cache
+E:\DEV\Workspace\.NET-Framework-check\dotNETFrameworkCheck\dotNETFrameworkCheck\obj\Debug\dotNETFrameworkCheck.exe
+E:\DEV\Workspace\.NET-Framework-check\dotNETFrameworkCheck\dotNETFrameworkCheck\obj\Debug\dotNETFrameworkCheck.pdb
